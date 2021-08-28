@@ -1,5 +1,5 @@
 Hey, 
-My name is Dylan Reece, and I am junior front end web developer based in the 🇬🇧.
+My name is Dylan R Hewitt, and I am junior front end web developer based in the 🇬🇧.
 
 I'm currently learning to code with front end technologies such as HTML,CSS,JavaScript and Alpine to name a few.
 
