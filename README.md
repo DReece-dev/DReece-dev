@@ -1,11 +1,9 @@
 Hey, 
 My name is Dylan R Hewitt, and I am junior front end web developer based in the 🇬🇧.
 
-I'm currently learning to code with front end technologies such as HTML,CSS,JavaScript and Alpine to name a few.
+I'm currently learning to code with front end technologies such as HTML,CSS,JavaScript.
 
-Also, learning more advanced Javascript and Front End Frameworks, concepts and backend technologies such as Node.js, PHP, Deno.
-
-I'm currently just learning how to code and looking for job opportunities.
+Also, looking at some backend technologies like Node.js, PHP and Python.
 
 Feel free to reach out to me here on GitHub.
 
