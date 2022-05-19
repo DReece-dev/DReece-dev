@@ -1,4 +1,4 @@
-Hey, 
+Hey,
 
 My name is Dylan, and I am a Junior Front End Developer based in the 🇬🇧.
 
@@ -23,11 +23,12 @@ What I know and what I'm good with:
 - Atom, VSCode
 
 Currently Learning
-• JavaScript - More ES6+ (Trying to learn advanced topics - Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM and more)
-• Agile - Scrum Framework
-• Web Security - HTTPS, CORS, Session/Cookies, OWASP Risks, Content Security Policy
-• Package Managers - yarn & pnpm
-• React.js - Fundamental Topics - Main focus at the moment
+
+- JavaScript - More ES6+ (Trying to learn advanced topics - Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM and more)
+- Agile - Scrum Framework
+- Web Security - HTTPS, CORS, Session/Cookies, OWASP Risks, Content Security Policy
+- Package Managers - yarn & pnpm
+- React.js - Fundamental Topics - Main focus at the moment
 
 Feel free to reach out to me here on GitHub.
 
