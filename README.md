@@ -29,6 +29,7 @@ Currently Learning
 - Web Security - HTTPS, CORS, Session/Cookies, OWASP Risks, Content Security Policy
 - Package Managers - yarn & pnpm
 - React.js - Fundamental Topics - Main focus at the moment
+- Learning how to write tests for my code.
 
 Feel free to reach out to me here on GitHub.
 
