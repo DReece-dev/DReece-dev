@@ -16,7 +16,7 @@ My expertise includes:
 * Node.js: I am proficient in using Node.js for server-side development and building web applications.
 * Atom, VSCode: I am experienced in using both Atom and VSCode as my code editors.
 
-⠀Currently, I am expanding my knowledge in the following areas:
+Currently, I am expanding my knowledge in the following areas:
 * Advanced JavaScript topics, such as Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM
 * Agile - Scrum Framework: I am learning the Scrum framework to improve my project management and collaboration skills.
 * Web Security - HTTPS, CORS, Session/Cookies, OWASP Risks, Content Security Policy: I am committed to ensuring the security of my websites and applications.
